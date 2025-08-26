@@ -8,11 +8,15 @@ for i in range (10):
 print(a)
 ```
 ### Header3
+- [ ] Attend Class
+- [ ] Reading Materials
+- [ ] Finish Homework
 #### Header4
 ##### Header5
 ###### Header6
 <!--
 Test Headers 1 - 6
 -->
+
 
 
