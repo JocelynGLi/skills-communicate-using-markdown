@@ -1,4 +1,5 @@
 # Header1
+![Image of Octovets](https://octodex.github.com/images/octovets_FULL.png)
 ## Header2
 ### Header3
 #### Header4
@@ -7,3 +8,4 @@
 <!--
 Test Headers 1 - 6
 -->
+
