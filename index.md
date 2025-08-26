@@ -1,6 +1,12 @@
 # Header1
 ![Image of Octovets](https://octodex.github.com/images/octovets_FULL.png)
 ## Header2
+``` python
+a = 0
+for i in range (10):
+    a += i
+print(a)
+```
 ### Header3
 #### Header4
 ##### Header5
@@ -8,4 +14,5 @@
 <!--
 Test Headers 1 - 6
 -->
+
 
